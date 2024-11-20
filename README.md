@@ -4,7 +4,7 @@ I'm a passionate **Python backend developer** with skills in **Python**, **Java*
 
 ### 🚀 Skills
 - **Programming Languages:** Python, Java, React
-- **Interests:** Linux, Computer Networks
+- **Interests:** Python🐍, Linux, Computer Networks🛜
 
 ### 🌐 Personal Website
 - [masterthecode.tech](https://masterthecode.tech)
